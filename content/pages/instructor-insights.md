@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8ca204cc-34d9-9fb9-54d4-cb25a8dbcbd9
 ---
@@ -44,20 +46,6 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 ### Offered
 
 This course on American authors is taught every second fall semester, though the focus and texts have changed with each iteration. Examples of past focus topics included American Trilogies, Classics Remixed, and [American Women Authors](/courses/21l-512-american-authors-american-women-authors-spring-2003/).
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![This photo shows a central table with chairs around all sides and a chalkboard on one wall.]({{< resource_file 1b9e3e89-159e-abc7-3371-6fba14a25d0d >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course is taught in a seminar-style classroom where students sit at around all sides of a central table. There is a chalkboard and projector to facilitate discussions.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
