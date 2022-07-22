@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 21L-512_classroom-1
 uid: 1b9e3e89-159e-abc7-3371-6fba14a25d0d
 ---
 Photograph of the classroom used for the course.
-
