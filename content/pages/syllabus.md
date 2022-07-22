@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, attendance, class participation, in-class reports, essays,
+  and policies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0296da22-f5ef-0936-8459-21ab9a0c0df5
 ---
