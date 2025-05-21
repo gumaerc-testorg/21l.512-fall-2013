@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image indicating course enrollment numbers.
-file: /ol-ocw-studio-app/courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/f747ea54347212bfccda2d212b15e123_21L-512_stat-students.png
+file: /courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/f747ea54347212bfccda2d212b15e123_21L-512_stat-students.png
 file_size: 2955
 file_type: image/png
 image_metadata:
